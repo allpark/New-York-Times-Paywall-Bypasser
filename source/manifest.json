@@ -1,0 +1,30 @@
+{
+	"manifest_version": 2,
+	"name": "NYT Paywall Remover",
+	"version": "1.0",
+    "description": "Bypass New York Time's paywall",
+
+	"content_scripts": [
+	{
+        "matches": ["https://www.nytimes.com/*"],
+		"js": ["jquery-1.9.1.min.js", "content.js"]
+		}
+	],
+  
+    "browser_action":
+    {
+        "default_icon" : "icon16.png"   
+    },
+    
+    "icons": 
+    {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon48.png"
+    },
+    
+    
+    "permissions": [
+        "activeTab"
+   ]
+}
