@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 This software requires the following software
 
 ```
-Google Chrome version 79.0 or greater 
+Google Chrome version 79.0 or greater  
 ```
 ### Installing
 
@@ -21,6 +21,7 @@ To install the extension, follow the steps below:
 2. open chrome and navigate to chrome://extensions
 3. click "load unpacked extension" and point to your extension's folder
 4. enable the plugin
+5. refresh every page
 
 ## Built With
 
