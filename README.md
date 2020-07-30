@@ -1,6 +1,6 @@
 # NYTUnpaywall 
 
-NYTUnpaywall is a simple Google Chrome extension that allows users to bypass New York Time's paywall. 
+NYTUnpaywall is a simple Chrome extension that allows users to bypass New York Time's paywall. 
 
 ## Getting Started
 
